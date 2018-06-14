@@ -1,3 +1,6 @@
 = asciidoc
 
 == h2
+
+== 简介
+这个项目用于在github上学习使用asciidoc
